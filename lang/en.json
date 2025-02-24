@@ -2,7 +2,7 @@
   "title": "Welcome to website",
   "description": "this is a websites",
   "button": "chage Language",
-
+},
 "content": { 
   "name": "THE THIRD TESTAMENT",
   "sub_I": {
@@ -26,7 +26,7 @@
           "I_12": "12. The seed of that supreme truth was sown forever in the heart of mankind. Christ was the sower and he still tends his seed. Afterward he will bring forth his fruit and rejoice in it forever. Then he will no longer say in his words, \"I am hungry\" or \"I am thirsty,\" for at last his children will love him, as he has loved them since the beginning.",
           "I_13": "13. Who speaks to you about Christ, disciples? He himself.",
           "I_14": "14. It is I, the \"Word\" that speaks to you anew, mankind. Know Me, do not doubt my presence because of the inconspicuousness in which I show myself. With Me there can be no pride.",
-          "I_15": "15. Recognize Me in my way of life in the world at that time, remember that I died as humbly as I was born and had lived. (296, 4- 16)"
+          "I_15": "15. Recognize Me in my way of life in the world at that time, remember that I died as humbly as I was born and had lived. (296, 4-16)"
         },
         
       "I_title_2": {
@@ -36,27 +36,44 @@
           "I_17": "17. Each generation believed to be the most gifted in the expectation that in them the word of their Lord would be fulfilled.",
           "I_18": "18. And so time passed, and generations passed, and my promise became more and more suppressed from the hearts, and people forgot to watch and pray. (356, 4-5)",
           "I_19": "19. The world is being tested, the nations feel the whole burden of my righteousness falling upon them, and my light, my voice calling you, is being felt in all mankind.",
-  "I_20": "",
-  "I_21": "",
-  "I_22": "",
-  "I_23": "",
-  "I_24": "",
-  "I_25": "",
-  "I_26": "",
-  "I_27": "",
-  "I_28": "",
-  "I_29": "",
-  "I_30": "",
-  "I_31": "",
-  "I_32": "",
-  "I_33": "",
-  "I_34": "",
-  "I_35": "",
-  "I_36": "",
-  "I_37": "",
-  "I_38": "",
-  "I_39": "",
-  "I_40": "",
+          "I_20": "20. People feel my presence, they perceive my Universal Ray that falls down and rests upon them. They suspect Me without knowing this work, without having heard my word, and they lift their souls to Me to ask Me, \"Lord, in what time do we live? These afflictions and sufferings that have struck men - what do they mean, Father? Do you not hear the lamentations of this world? Did you not say that you would come again? When will You come then, O Lord? And in every faith group and religious community the Spirit of my children is rising, and they seek me, invoke me, ask me and expect me. (222, 29)",
+          "I_21": "21. Men question Me and say to Me, \"Lord, if You exist, why do You not reveal Yourself among us, although You came down to our earth world at other times? Why do you not come today? Is our godlessness now so great that it prevents You from coming to our aid? You have always sought the lost, the \"blind,\" the \"lepers\" - now the world is full of them. Do we no longer arouse Your compassion?",
+          "I_22": "22. \"You said to your apostles that you would return to the people and that you would give signs of your coming, which we now believe to see. Why do you not show us your face?\" \n * The revelations of Christ at His return in word, in spiritual form, which began in 1866 in Mexico through the pioneer Elijah.",
+          "I_23": "23. Behold, so men wait for Me without feeling that I am among them. I am before their eyes, and they do not see Me; I speak to them, and they do not hear My voice; and when they finally see Me for a moment, they deny Me. But I continue to give testimony of Me, and those who hope in Me, I will further expect.",
+          "I_24": "24. But verily, the signs of my revelation in this time have been great, even the blood of men, shed in torrents and watering the earth, has indicated the time of my presence among you as HolySpirit. (62, 27-29)",
+          "I_25": "25. No one should be surprised by my presence. Already through Jesus I indicated to you the events that would announce my rallies as Spirit of Truth. I also told you that my coming would be in the Spirit so that no one should expect material manifestations that will never come.",
+          "I_26": "26. Consider the Jewish people as they still await the Messiah, without the Messiah coming in the form they expect, because the True One was already with them and they did not recognize Him.",
+          "I_27": "27. Mankind, will you not acknowledge my new revelation to continue to expect Me according to your faith and not according to what I promised you? (99, 2)",
+          "I_28": "28. The world shall not expect a new Messiah. Just as I promised to return, I also let you know that my coming would be spiritual; but men have never been able to prepare themselves to receive me.",
+          "I_29": "29. At that time men doubted that God could be hidden in Jesus, whom they took for a man like all others and as poor as any. Nevertheless, later, in view of the powerful works of Christ, people came to the conviction that in that man who was born in the world, grew up and died, was the \"Word\" of God. But in the present time, many people would only say yes to my coming if I came as a human being as in the Second Age.",
+          "I_30": "30. The proofs that I come in the Spirit and thus make myself known to mankind will not be recognized by all, despite the testimonies, for materialism will be like a dark bandage before the eyes of some.",
+          "I_31": "31. How many would again like to see Christ suffer in the world and receive a miracle from Him to believe in His presence or existence. But truly, I tell you, on this earth there will no longer be a manger to see Me born as man, nor another Golgotha to see Me die. Now all who rise to true life will feel Me born in their hearts, just as all who persist in sin will feel Me dying in their hearts. (88, 27-29)",
+          "I_32": "32. See how many people at this time are researching the writings of past times, reflecting on the prophets and trying to grasp the promises Christ made about His return.",
+          "I_33": "33. Hear how they say, \"The Master is near\" - \"The Lord is already here\", or: \"He will come soon\", and add: \"The signs of his return are clear and evident\".",
+          "I_34": "34. Some seek and call me, others feel my presence, still others suspect my coming in the Spirit.",
+          "I_35": "35. Alas, if in all there were already that thirst for knowledge, if all had that desire for knowledge of the highest truth! (239, 68-71)",
+          "I_36": "36. See how people in all denominations and sects search through time, life and events in the hope of discovering the signs that announce my coming. They are ignorant people who do not know that I have been making myself known for a long time and that this kind of rallies will end shortly.",
+          "I_37": "37. But I tell you also this, that many of those who await me with so much longing would not recognize me if they witnessed the way I manifest myself, but would reject me flatly.",
+          "I_38": "38. Only the testimonies will reach them, and through these they will still believe that I have been among my children.",
+          "I_39": "39. You also inwardly awaited Me with impatience; but I knew that you would recognize Me and be among my workers in this time. (255, 2-4)"
+      },
+
+      "I_title_3": {
+        "name": "Biblical promises",
+          "I_40": "40. In My revelation through Jesus I announced to you the coming of the Holy Spirit, and men believed that it was a Deity who, unrecognized by them, was in God, not realizing that when I spoke of the HolySpirit, I spoke to you of the only God who prepared the time when He would make Himself known to men through the human mind (8, 4)",
+          "I_41": "41. Why should anyone be surprised at my new revelations? Verily, I tell you, the patriarchs of old had already known of the coming of this age, the seers of other ages had seen it and the prophets announced it. It was a Divine Promise that had been given to men long before I was born in Jesus.",
+          "I_42": "42. When I announced My renewed coming to My disciples and told them the way in which I would make myself known to men, much time had passed since the promise was given to you.",
+          "I_43": "43. Now you have before your eyes the course of that time; here those prophecies are fulfilled Who can be surprised by this? Only those who have slept in darkness or those who have extinguished my promises in themselves. (12, 97-99) \n* The term \"darkness\" has here and elsewhere the meaning of \"ignorance,\" \"cognitionlessness,\" while \"light\" in the opposite sense is used as a symbol of \"knowledge,\" \"enlightenment.",
+          "I_44": "44. Knowing that you would delve little into my teachings and foreseeing the errors you would make in interpreting my revelations, I announced my return by telling you that I would send you the Spirit of Truth to enlighten many mysteries and explain to you what you did not understand",
+          "I_45": "45. For in the core of my prophetic Word I announced to you that I would not come in this time under lightning and thunder as in Sinai, nor that I would become man and humanize my love and my words as in the \"Second Age\", but that I would come to your spirit in the ray of my wisdom, surprising your mind with the light of inspiration and calling at the doors of your hearts with a voice that your Spirit would understand Those predictions and promises are coming true right now.",
+          "I_46": "46. It is enough to prepare you a little to see my light and feel the presence of my Spirit - the same one who announced to you that he would come to teach you and reveal the truth. (108, 22-23)",
+          "I_47": "47. There are many who, out of fear or lack of diligence, have not developed and only obey the law of Moses, without acknowledging the coming of the Messiah, and others who, though they believe in Jesus, still did not expect the promised Spirit of Comforter Now I have come down for the third time and they did not expect Me.",
+          "I_48": "48. The angels have announced these revelations, and their call has filled the room. Have you recognized them? It is the spiritual world that has come to you to witness my presence. All that is written will come to pass. The destruction that has been unleashed will defeat the arrogance and vanity of man, and this one - humbled - will seek me and call me Father. (179, 38-39)",
+          "I_49": "49. This is what I told you in those days: \"What I have told you is not all I have to teach you. For you to experience everything, I must first go away and send you the Spirit of Truth to explain all that I have said and done. I promise you the Comforter in the times of trial. But that Comforter, that Explainer, is I Myself who returns to enlighten you and help you to understand the past teachings and this new one that I am bringing you now. (339, 26)",
+          "I_50": "50. In wisdom is the healing balm and the consolation that your heart longeth for. Therefore I once promised you the Spirit of Truth as the Spirit of consolation. But it is indispensable to have faith so as not to stop on the way nor to feel fear in the face of trials. (263, 10-11)"
+      },
+
+        
 
         
         
@@ -68,7 +85,8 @@
   "chapter_6": "",
   "chapter_7": "",
   "chapter_8": "",
-
+      },
+      },      
   "sub_II": "",
   "chapter_9": "",
   "chapter_10": "",
@@ -158,17 +176,7 @@
 
   
   
-    "I_title_3": "",
-  "I_41": "",
-  "I_42": "",
-  "I_43": "",
-  "I_44": "",
-  "I_45": "",
-  "I_46": "",
-  "I_47": "",
-  "I_48": "",
-  "I_49": "",
-  "I_50": "",
+    
   "I_title_4": "",
   "I_51": "",
   "I_52": "",
